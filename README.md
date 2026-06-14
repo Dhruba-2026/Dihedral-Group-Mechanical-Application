@@ -87,23 +87,9 @@ Dihedral-Group-Mechanical-Applications/
 
 ### Figures
 
-## Rotation Visualization (D6)
-
-<p align="center">
-  <img src="./images/Rotation%20Operations%20in%20D6.png" width="500"/>
-</p>
-
-## Reflection Visualization (D6)
-
-<p align="center">
-  <img src="./images/Reflection%20Operations%20in%20D6.png" width="500"/>
-</p>
-
-## Symmetrically Generated Rotor Mesh (D6)
-
-<p align="center">
-  <img src="./images/Symmetrically%20generated%20rotor%20mesh%20via%20D6.png" width="500"/>
-</p>
+![D6 Rotation](./images/rotation_operations_d6.png)
+![D6 Reflection](./images/reflection_operations_d6.png)
+![D6 Symmetrically Generated Rotor Mesh](./images/symmetrically_generated_rotor_mesh_via_d6.png)
 
 ---
 
