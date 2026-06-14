@@ -77,9 +77,33 @@ Dihedral-Group-Mechanical-Applications/
 │── README.md
 │── Dihedral_Group_Symmetry.ipynb
 │── images/
+      └── (Rotation_Operations_in_D6.png)
+      └── (Reflection_Operations_in_D6.png)
+      └── (Symmetrically_generated_rotor_mesh_via_D6.png)
 │── results/
 └── references/
 ```
+---
+
+### Figures
+
+## Rotation Visualization (D6)
+
+<p align="center">
+  <img src="./images/Rotation%20Operations%20in%20D6.png" width="500"/>
+</p>
+
+## Reflection Visualization (D6)
+
+<p align="center">
+  <img src="./images/Reflection%20Operations%20in%20D6.png" width="500"/>
+</p>
+
+## Symmetrically Generated Rotor Mesh (D6)
+
+<p align="center">
+  <img src="./images/Symmetrically%20generated%20rotor%20mesh%20via%20D6.png" width="500"/>
+</p>
 
 ---
 
