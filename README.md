@@ -44,11 +44,11 @@ where
 
 The rotation angle is
 
-[
+$$ [
 \theta=\frac{2\pi k}{n},
 \qquad
 k=0,1,\ldots,n-1
-]
+] $$
 
 The project represents these transformations using matrix operations and applies them to engineering geometries.
 
